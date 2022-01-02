@@ -1,0 +1,4 @@
+pyproj
+geopandas
+contextily
+overpy
